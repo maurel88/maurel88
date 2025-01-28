@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maurel88 graduated in cybersecurity.
+- 👋 Hi, I’m @maurel88.
 - 👀 I’m interested in coding, designing Apps, automation and cybersecurity
 - 🌱 I’m currently learning some new stuffs in coding with javascripts.
 - 💞️ I’m looking to collaborate on many Apps designing projects and new feature in embedded systems coding
